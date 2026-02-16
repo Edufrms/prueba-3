@@ -1,0 +1,5 @@
+{
+  "name": "FairConnect AI - Trade Show Manager",
+  "description": "An intelligent trade fair agenda application that helps professionals manage events, meetings, and prep insights using Gemini AI and Google Search grounding.",
+  "requestFramePermissions": []
+}
